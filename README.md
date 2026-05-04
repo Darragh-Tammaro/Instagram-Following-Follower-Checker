@@ -4,8 +4,8 @@ A python script you can use to see who doesn't follow you back.
 
 # How To Use
 
-1) Log into your <b> Instagram </b>
-2) Go to your <b> settings </b>
+1) Log into <b> Instagram </b> on a browser of your choice
+2) Go to <b> settings </b>
 3) Find the <b> Accounts Centre </b> and locate <b> "Your Information and Permissions" </b>
 4) Click <b> "Export your information" </b>
 5) Select only <b>"Followers and following"</b> as well as <b> "All time" </b> for the date range
