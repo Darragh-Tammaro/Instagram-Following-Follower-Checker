@@ -1,6 +1,6 @@
 # Instagram-Following-Follower-Checker
 
-A python script you can use to see who doesn't follow you back.
+A python script you can use to see who doesn't follow you back
 
 # How To Use
 
@@ -13,6 +13,9 @@ A python script you can use to see who doesn't follow you back.
 7) Once downloaded, place the python script in the same folder as <b> following.json </b> and <b> followers_1.json </b>
 
 # Extra information
+
+This script can also be used to see who unfollowed you if you are unsure. Just use a previous followers.json file and 
+the downloaded new one to see the usernames of who have unfollowed you.
 
 NOTHING IN THE SCRIPT HAS TO BE CHANGED
 
