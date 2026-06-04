@@ -14,9 +14,6 @@ A python script you can use to see who doesn't follow you back
 
 # Extra information
 
-This script can also be used to see who unfollowed you if you are unsure. Just use a previous followers.json file and 
-the downloaded new one to see the usernames of who have unfollowed you.
-
 NOTHING IN THE SCRIPT HAS TO BE CHANGED
 
 Note:
